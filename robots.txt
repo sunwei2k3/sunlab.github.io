@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sunlab.github.io/sitemap.xml
+Sitemap: https://sunwei2k3.github.io/sitemap.xml
